@@ -29,7 +29,7 @@ Email Me 👉 ✉️ **jhaaman810@gmail.com** For Collaboration/Project or Anyth
 ![](https://github-profile-trophy.vercel.app/?username=ajha19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=ajha19&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ajha19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajha19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
