@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **jhaaman810@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 💻 **I’m a MERN Stack Developer with 3.9 years of experience in building scalable, full-stack web applications**
+- 💻 **I’m a MERN Stack Developer with 3.10 years of experience in building scalable, full-stack web applications**
 - ⚛️ **Specialise in creating responsive, high-performance UIs using React.js** 
 - 🛠️ **Proficient in backend development with Node.js, Express.js, and MongoDB**
 - 🚀 **Experienced in delivering production-ready features and end-to-end solutions**
